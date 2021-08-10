@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/satyadvaya/my-first-express-app/issues"
   },
-  "homepage": "https://github.com/satyadvaya/my-first-express-app#readme"
+  "homepage": "https://github.com/satyadvaya/my-first-express-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "supertest": "^6.1.4"
+  }
 }
